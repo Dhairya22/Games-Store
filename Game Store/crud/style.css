@@ -1,0 +1,31 @@
+
+
+.d-flex button{
+    margin: 1.5em 0.5em;
+    padding: 0.3em 1.4em;
+    position: relative;
+}
+
+.d-flex table{
+    margin: 1em 10em;
+}
+
+table .btnedit{
+    color: black;
+
+    
+}
+
+.success{
+    background-color: lightgreen;
+    padding: 1em;
+    justify-content: center;
+    text-align: center;
+}
+
+.error{
+    background-color: tomato;
+    padding: 1em;
+    justify-content: center;
+    text-align: center;
+}
